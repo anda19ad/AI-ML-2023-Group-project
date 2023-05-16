@@ -2,3 +2,4 @@
 data/test.csv
 data/train.csv
 .DS_Store
+ML_Models/mlp_model_40K_Text.joblib
